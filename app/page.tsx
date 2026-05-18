@@ -360,7 +360,7 @@ export default function ThaiPropertyWebsite() {
             >
               <Phone className="mx-auto mb-3 h-8 w-8" />
               <div className="font-bold">โทรศัพท์</div>
-              <div className="text-sm text-slate-600">08X-XXX-XXXX</div>
+              <div className="text-sm text-slate-600">097-019-2359</div>
             </a>
             <a
               href="#"
